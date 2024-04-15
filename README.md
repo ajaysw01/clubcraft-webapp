@@ -28,6 +28,7 @@ The scope of ClubCraft encompasses a wide range of functionalities tailored to m
 - **JavaScript:** Client-side scripting for enhanced interactivity and user experience.
 - **MySQL:** Database management using SQL for storing and retrieving data.
 - **Java Mail API** Library for sending email notifications.
+- **Maven:** Dependency management tool for Java projects.
 - **Base64 & AES Encryption:** Advanced Encryption Standard for securing sensitive data like user and admin passwords.
 
 ## 🎓 Final Year Project
